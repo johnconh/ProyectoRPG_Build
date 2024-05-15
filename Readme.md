@@ -6,4 +6,6 @@ El juego a ser por turnos se ataca en un orden en concreto, los golpes se ven re
 
 Al finalizar el combate es posible que como recompensa os caiga un baul, en este contiene pocion de vida o de mana, tambien es posible que el rival huya.
 
-El juego consta de dos niveles, el bosque y el castillo, el bosque tiene su boss final antes de acceder al castillo y en el castillo el boss final del      juego.
+El juego consta de dos niveles, el bosque y el castillo, el bosque tiene su boss final antes de acceder al castillo y en el castillo el boss final del juego.
+
+Para jugar solo ejecutar el ProyectoRPG.exe.
